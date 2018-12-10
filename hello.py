@@ -1,0 +1,5 @@
+print('ZOMBIIIIIII')
+
+# Z-Z-Z-Z-Z-Z-Z-ZZ-Z-Z-Z-
+# ITS APOCALYPSE TIME #
+# Z-Z-Z-Z-Z-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-Z
