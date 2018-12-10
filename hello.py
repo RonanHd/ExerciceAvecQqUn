@@ -1,5 +1,9 @@
-print('ZOMBIIIIIII')
 
-# Z-Z-Z-Z-Z-Z-Z-ZZ-Z-Z-Z-
-# ITS APOCALYPSE TIME #
-# Z-Z-Z-Z-Z-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-ZZ-Z-Z-Z
+print("HEY, comment s est passe ton week-end?")
+
+reponse = input("S 'il te plait tape : 'Ronan est trop cool!'")
+
+if reponse == "Ronan est trop cool!" :
+    print("T es cool aussi")
+else :
+    print("j aime pas ta reponse")
